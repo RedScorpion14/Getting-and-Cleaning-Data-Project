@@ -1,4 +1,4 @@
-##Preparer: Fazleali Pirbhai
+**Preparer:** Fazleali Pirbhai
 #Assignment: Getting and cleaning data – Coursera – John Hopkins University
 Project Name: Human Activity Recognition Using Smartphones Data Set
 
