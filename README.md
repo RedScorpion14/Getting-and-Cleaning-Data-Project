@@ -1,8 +1,8 @@
 **Preparer:** Fazleali Pirbhai
-#Assignment: Getting and cleaning data – Coursera – John Hopkins University
-Project Name: Human Activity Recognition Using Smartphones Data Set
+**Assignment:** Getting and cleaning data – Coursera – John Hopkins University
+**Project Name:** Human Activity Recognition Using Smartphones Data Set
 
-Data
+**Data**
 The files uploaded in github for this assignment are: -
 
 1.	README.md
@@ -15,7 +15,7 @@ Steps used for this assignments
 1.	Downloaded the original dataset from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 2.	Load the following datasets in R: -
 
-#Data Frame	                  Original File Name
+**Data Frame	                  Original File Name**
 activity_labels_raw	          activity_labels.txt
 features_raw	                features.txt
 x_test_raw	                  X_test.txt
